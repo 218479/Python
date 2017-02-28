@@ -9,6 +9,7 @@ global hasla
 global lock
 global rozmiar
 
+#Dodaje wlasnie jakies zmiany do pliku
 rozmiar=100
 tablica_zakodowanych_hasel=[]
 tablica_odkodowanych_hasel=[]
